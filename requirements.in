@@ -1,0 +1,25 @@
+# ---- Dependency Management
+pip-tools
+
+# ---- Formatting
+black
+black[jupyter]
+isort
+
+# ---- Jupyter
+ipykernel
+
+# ----- ML/DS
+numpy
+scipy
+pandas
+scikit-learn
+statsmodels
+# torch
+tensorflow
+fastdtw
+# git+https://github.com/mawicks/mvarch
+
+# ----- Plotting
+matplotlib
+seaborn
